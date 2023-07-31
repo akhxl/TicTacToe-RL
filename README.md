@@ -1,1 +1,2 @@
 # TicTacToe-RL
+Q learning 
